@@ -1,3 +1,14 @@
+'''
+This module is to list the EC2 Instances in different states.
+For e.g.
+1. Listing all the Instances.
+2. Listing all the Instances in RUNNING state.
+3. Listing all the Instances in PENDING state.
+and so on ....
+'''
+
+
+
 #importing the boto3 module
 import boto3
 
